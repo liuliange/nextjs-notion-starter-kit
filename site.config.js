@@ -8,7 +8,7 @@ export default {
 
   // basic site info (required)
   name: '缤果',
-  domain: 'https://www.notion.so/durians/3b78820e22084146997c2a8e70db139c',
+  domain: 'https://www.123934.com',
   author: '缤果',
 
   // open graph metadata (optional)
